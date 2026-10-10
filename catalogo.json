@@ -1,0 +1,17 @@
+[
+  {"id":1,"nombre":"Ceviche de pescado","categoria":"Frescos","precio":95,"stock":20,"imagen":"img/ceviche-de-pescado.jpg"},
+  {"id":2,"nombre":"Aguachile verde","categoria":"Frescos","precio":160,"stock":20,"imagen":"img/aguachile-verde.jpg"},
+  {"id":3,"nombre":"Aguachile negro","categoria":"Frescos","precio":170,"stock":20,"imagen":"img/aguachile-negro.jpg"},
+  {"id":4,"nombre":"Coctel de camarón","categoria":"Frescos","precio":150,"stock":20,"imagen":"img/coctel-de-camaron.jpg"},
+  {"id":5,"nombre":"Tostada de callo","categoria":"Frescos","precio":110,"stock":20,"imagen":"img/tostada-de-callo.jpg"},
+  {"id":6,"nombre":"Camarones a la diabla","categoria":"Calientes","precio":190,"stock":20,"imagen":"img/camarones-a-la-diabla.jpg"},
+  {"id":7,"nombre":"Filete empanizado","categoria":"Calientes","precio":170,"stock":20,"imagen":"img/filete-empanizado.jpg"},
+  {"id":8,"nombre":"Pescado zarandeado (kg)","categoria":"Calientes","precio":320,"stock":20,"imagen":"img/Pescado-Zarandeado-principal.jpg"},
+  {"id":9,"nombre":"Tacos gobernador (3)","categoria":"Calientes","precio":135,"stock":20,"imagen":"img/tacos-gobernador-3.jpg"},
+  {"id":10,"nombre":"Caldo siete mares","categoria":"Calientes","precio":180,"stock":20,"imagen":"img/caldo-siete-mares.jpg"},
+  {"id":11,"nombre":"Clamato preparado","categoria":"Bebidas","precio":80,"stock":20,"imagen":"img/clamato-preparado.jpg"},
+  {"id":12,"nombre":"Agua de coco","categoria":"Bebidas","precio":45,"stock":20,"imagen":"img/agua-de-coco.jpg"},
+  {"id":13,"nombre":"Limonada","categoria":"Bebidas","precio":40,"stock":20,"imagen":"img/limonada.jpg"},
+  {"id":14,"nombre":"Agua de horchata","categoria":"Bebidas","precio":35,"stock":20,"imagen":"img/agua-de-horchata.jpg"},
+  {"id":15,"nombre":"Refresco","categoria":"Bebidas","precio":35,"stock":20,"imagen":"img/refresco.jpg"}
+]
